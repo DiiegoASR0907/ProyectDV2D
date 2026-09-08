@@ -1,0 +1,25 @@
+{
+  "project": "Historia en Pixel",
+  "version": "0.1.0",
+  "source": "WhatsApp ZIP — 17 JPEGs — 2026-09-07",
+  "series": ["Dictators Arena"],
+  "assets": [
+    {"id":"HP-001","file":"WhatsApp Image 2026-09-07 at 8.32.45 PM (1).jpeg","category":"ficha_faccion","theme":"personaje historico ficcionalizado + ejercito","instagram_function":"carrusel de presentacion de personaje/faccion","status":"plantilla"},
+    {"id":"HP-002","file":"WhatsApp Image 2026-09-07 at 8.32.45 PM (2).jpeg","category":"ficha_faccion","theme":"personaje historico ficcionalizado + unidades","instagram_function":"plantilla personaje-faccion-unidades-habilidades-escenarios","status":"plantilla"},
+    {"id":"HP-003","file":"WhatsApp Image 2026-09-07 at 8.32.45 PM.jpeg","category":"roster_seleccion","theme":"Dictators Arena — seleccion de personajes","instagram_function":"portada de serie / carrusel de roster","status":"concepto"},
+    {"id":"HP-004","file":"WhatsApp Image 2026-09-07 at 8.32.46 PM (1).jpeg","category":"ficha_faccion","theme":"personaje historico ficcionalizado + tropas + escenarios","instagram_function":"post individual o slide de carrusel","status":"asset_final"},
+    {"id":"HP-005","file":"WhatsApp Image 2026-09-07 at 8.32.46 PM.jpeg","category":"ficha_faccion","theme":"personaje historico ficcionalizado + ejercito","instagram_function":"variante para posts de personaje","status":"plantilla"},
+    {"id":"HP-006","file":"WhatsApp Image 2026-09-07 at 8.32.47 PM (1).jpeg","category":"ficha_tactica","theme":"personaje + ejercito + combate","instagram_function":"carrusel de stats, ejercito, habilidades y contexto","status":"asset_final"},
+    {"id":"HP-007","file":"WhatsApp Image 2026-09-07 at 8.32.47 PM.jpeg","category":"stats_unidad","theme":"personaje historico ficcionalizado","instagram_function":"post tipo videojuego con estadisticas editoriales","status":"concepto"},
+    {"id":"HP-008","file":"WhatsApp Image 2026-09-07 at 8.32.48 PM (1).jpeg","category":"conflicto_campana","theme":"guerra, revolucion o conflicto historico ficcionalizado","instagram_function":"carrusel narrativo de campaña + contexto","status":"asset_final"},
+    {"id":"HP-009","file":"WhatsApp Image 2026-09-07 at 8.32.48 PM (2).jpeg","category":"mapa_escenarios","theme":"campaña historica y evolucion territorial","instagram_function":"serie Campaign Map","status":"asset_final"},
+    {"id":"HP-010","file":"WhatsApp Image 2026-09-07 at 8.32.48 PM.jpeg","category":"biblioteca_assets","theme":"personaje + unidades + localizaciones","instagram_function":"base modular para multiples posts","status":"plantilla"},
+    {"id":"HP-011","file":"WhatsApp Image 2026-09-07 at 8.32.49 PM (1).jpeg","category":"identidad_faccion","theme":"personaje + ejercito + UI militar","instagram_function":"post de identidad visual / ficha de faccion","status":"asset_final"},
+    {"id":"HP-012","file":"WhatsApp Image 2026-09-07 at 8.32.49 PM (2).jpeg","category":"geografia_mapa","theme":"territorio y escenarios historicos","instagram_function":"carrusel Historia como mapa","status":"asset_final"},
+    {"id":"HP-013","file":"WhatsApp Image 2026-09-07 at 8.32.49 PM (3).jpeg","category":"branding","theme":"HISTORIA EN PIXEL","instagram_function":"foto de perfil, portada, identidad y mockups","status":"concepto"},
+    {"id":"HP-014","file":"WhatsApp Image 2026-09-07 at 8.32.49 PM.jpeg","category":"ficha_personaje","theme":"personaje historico ficcionalizado","instagram_function":"post individual / ficha jugable","status":"asset_final"},
+    {"id":"HP-015","file":"WhatsApp Image 2026-09-07 at 8.32.50 PM (1).jpeg","category":"ficha_personaje","theme":"GENERAL ROJO — alias creativo visible","instagram_function":"post de personaje + contexto historico","status":"asset_final"},
+    {"id":"HP-016","file":"WhatsApp Image 2026-09-07 at 8.32.50 PM (2).jpeg","category":"roster_seleccion","theme":"Dictators Arena — roster ampliado","instagram_function":"portada de franquicia / menu de seleccion","status":"concepto"},
+    {"id":"HP-017","file":"WhatsApp Image 2026-09-07 at 8.32.50 PM.jpeg","category":"branding","theme":"HISTORIA EN PIXEL","instagram_function":"feed, avatar y presentacion visual","status":"concepto"}
+  ]
+}
